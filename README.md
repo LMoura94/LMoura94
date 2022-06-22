@@ -17,6 +17,12 @@ Here are some ideas to get you started:
   
   ##
   
+🔭 I’m currently working on Webflow CMS Projects <br>
+🌱 I’m currently learning JS, React and Unity 3D Games <br>
+⚡ Fun fact: My dream is move to Canadá<br>
+  
+  ##
+  
 <div align="center">
   <a href="https://github.com/Lmoura94">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Lmoura94&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
@@ -37,5 +43,4 @@ Here are some ideas to get you started:
 <a href="https://api.whatsapp.com/send/?phone=%2B5512991897072&text&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
 <a href="mailto:leonardo.moura.ismart@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
  </div>
-
 

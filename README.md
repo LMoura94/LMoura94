@@ -1,4 +1,4 @@
-### Sou Leonardo Moura, Aspirante a Dev, apaixonado por tecnologia e sempre disposto a novos desafios!
+### Sou Leonardo Moura, Desenvolvedor Front-End, apaixonado por tecnologia e sempre disposto a novos desafios!
 
 <!--
 **LMoura94/LMoura94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
